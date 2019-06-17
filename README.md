@@ -2,4 +2,4 @@
 Read all scores.
 1. Input score image
 1. Read notes
-1. Outout midi
+1. Output midi
